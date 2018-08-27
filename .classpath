@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenGL_2.9.1">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/lwjgl-2.9.1/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lwjgl_openGL"/>
+	<classpathentry kind="lib" path="C:/Users/Ofek/workspace/lwjgl-2.9.1/jar/PNGDecoder.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
